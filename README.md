@@ -1,4 +1,4 @@
-## Introduction
+Introduction
 
 🚀 Aspiring Software Engineer | BCA Student (3rd Semester) 🎓
 

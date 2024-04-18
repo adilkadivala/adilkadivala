@@ -10,7 +10,7 @@ Hello! 👋 I am a dedicated BCA student with a passion for MERN-stack developme
 
 Let's build something extraordinary together! 🚀
 
-
+Here is my Portfolio + Resume  https://folll.io/Adil_Kadival
 
 ## Table of Contents
 

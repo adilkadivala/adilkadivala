@@ -10,7 +10,14 @@ Hello! 👋 I am a dedicated BCA student with a passion for MERN-stack developme
 
 Let's build something extraordinary together! 🚀
 
-
+<a href="https://github.com/adilkadivala">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adilkadivala&show_icons=true&theme=dracula&private=true&include_all_commits=true" />
+</a>
+<td>
+<a href="https://github.com/adilkadivala">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilkadivala&hide=jupyter%20notebook,css&layout=compact&theme=dracula" />
+</a>
 
 ## Table of Contents
 

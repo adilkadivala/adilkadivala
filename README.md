@@ -23,8 +23,8 @@ Let's build something extraordinary together! 🚀
   <tr>
     <td>
       <a href="https://github.com/adilkadivala">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=adilkadivala&show_icons=true&theme=dracula&private=true&include_all_commits=true" width="400" height="200"/>
-      </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adilkadivala&show_icons=true&theme=dracula&private=true&include_all_commits=true" />
+</a>
     </td>
     <td>
       <a href="https://github.com/adilkadivala">

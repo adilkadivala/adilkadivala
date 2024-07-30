@@ -39,26 +39,32 @@ Let's build something extraordinary together! 🚀
   </tr>
 </table>
 
-<h3 align="left"> 🎓 Skills</h3>
+<h3 align="left"> 🎓 Play Ground</h3>
 
 💻 I have hands-on experience in crafting engaging and responsive user interfaces using HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, and Express.
 
-<h3 align="left"> ⚙ Technologies</h3>
 
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- Tailwind CSS
-- React.js
-- Express.js
+<div>
+<img src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-Node.js-87BF00?&style=for-the-badge&logo=node.js&logoColor=black" />
+<img src="https://img.shields.io/badge/-Express.js-F7F7F7?&style=for-the-badge&logo=express&logoColor=black" />
+<img src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/-MySQL-42759C?&style=for-the-badge&logo=mysql&logoColor=f7f7f7" />
+<img src="https://img.shields.io/badge/-Next.js-000000?&style=for-the-badge&logo=next.js&logoColor=f7f7f7" />
+<img src="https://img.shields.io/badge/-Postman-F56933?&style=for-the-badge&logo=postman&logoColor=f7f7f7" />
+<img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" /> 
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+</div>
+
+
 
 <h3 align="left"> 🌐 Social Media</h3> 
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/adil-kadival"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.hackerrank.com/profile/adilkadivala560"><img src="https://img.shields.io/badge/Hackerrank-E4405F?style=for-the-badge&logo=Hackerrank&logoColor=white" alt="Hackerrank"></a>
-  <a href="https://twitter.com/adil_kadival"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://leetcode.com/adilkadivala560/"><img src="https://img.shields.io/badge/Leetcode-D14836?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode"></a>
+  <a href="https://www.linkedin.com/in/adil-kadival" target=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.hackerrank.com/profile/adilkadivala560" target=""><img src="https://img.shields.io/badge/Hackerrank-E4405F?style=for-the-badge&logo=Hackerrank&logoColor=white" alt="Hackerrank"></a>
+  <a href="https://twitter.com/adil_kadival" target=""><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://leetcode.com/adilkadivala560/" target=""><img src="https://img.shields.io/badge/Leetcode-D14836?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode"></a>
 </div>

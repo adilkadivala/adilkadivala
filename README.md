@@ -54,7 +54,6 @@ Let's build something extraordinary together! 🚀
 <img src="https://img.shields.io/badge/-Postman-F56933?&style=for-the-badge&logo=postman&logoColor=f7f7f7" />
 <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" /> 
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 </div>
 
 

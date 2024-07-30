@@ -6,7 +6,7 @@
 <h3 align="center">A passionate MERN Stack developer from INDIA</h3>
 
 <p align="center">
-  <a href="https://github.com/adilkadivala/adilkadivala"><img src="https://readme-typing-svg.demolab.com?font=Freeman&size=40&duration=3000&pause=900&color=DC1C41&center=true&vCenter=true&random=false&width=600&height=60&lines=MERN+Stack+Developer...%E2%9D%A4%EF%B8%8F%2C;NODE+Backend+Developer...%F0%9F%92%99%2C;React+FrontEnd+Developer%2C;Passionate+Programmer%2C;Love+to+Learn+New+Stuff%2C" alt="Typing SVG" /></a>
+  <a href="https://github.com/adilkadivala"><img src="https://readme-typing-svg.demolab.com?font=Freeman&size=40&duration=3000&pause=900&color=DC1C41&center=true&vCenter=true&random=false&width=600&height=60&lines=MERN+Stack+Developer...%E2%9D%A4%EF%B8%8F%2C;NODE+Backend+Developer...%F0%9F%92%99%2C;React+FrontEnd+Developer%2C;Passionate+Programmer%2C;Love+to+Learn+New+Stuff%2C" alt="Typing SVG" /></a>
 </p>
 
 <h3 align="left"> 🚀 About Me</h3>

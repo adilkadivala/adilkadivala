@@ -11,7 +11,7 @@
 
 <h3 align="left"> 🚀 About Me</h3>
 
-🌐 I am a dedicated MERN Stack developer currently in my 3rd semester, actively seeking opportunities to apply and enhance my skills through an internship in frontend development. My journey so far has equipped me with a solid foundation, and I am eager to contribute my creativity and technical expertise to real-world projects.
+🌐 I am a dedicated MERN Stack developer ( currently in my 3rd semester ), actively seeking opportunities to apply and enhance my skills through an internship in Full-stack development. My journey so far has equipped me with a solid foundation, and I am eager to contribute my creativity and technical expertise to real-world projects.
 
 💡 I thrive on new challenges and collaborations, committed to continuous learning and staying updated with the latest trends in web development. If you have an exciting opportunity or if you'd like to connect, feel free to reach out!
 

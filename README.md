@@ -11,11 +11,11 @@
 
 <h3 align="left"> 🚀 About Me</h3>
 
-🌐 I am a dedicated MERN Stack developer ( currently in my 3rd semester ), actively seeking opportunities to apply and enhance my skills through an internship in Full-stack development. My journey so far has equipped me with a solid foundation, and I am eager to contribute my creativity and technical expertise to real-world projects.
+🌐 I am a passionate MERN Stack Developer and software engineering student (currently in my 3rd semester) with a deep curiosity for the latest advancements in web development and software technology. I’m actively seeking opportunities to apply my skills through an internship in Full-Stack Development to build scalable, high-performance solutions.
 
-💡 I thrive on new challenges and collaborations, committed to continuous learning and staying updated with the latest trends in web development. If you have an exciting opportunity or if you'd like to connect, feel free to reach out!
+💡 My technical journey has equipped me with a solid foundation in front-end and back-end technologies, and I’m always eager to embrace new challenges. From collaborating on innovative projects to staying updated with emerging trends, I thrive in environments where learning and creating something extraordinary are at the core.
 
-Let's build something extraordinary together! 🚀
+🚀 If you’re looking for a developer with a strong work ethic, creative problem-solving skills, and a passion for modern web technologies, let's connect and build something remarkable together!
 
 <h1 align="center">GitHub Says About Me!</h1>
 

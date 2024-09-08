@@ -9,8 +9,6 @@
   <a href="https://github.com/adilkadivala"><img src="https://readme-typing-svg.demolab.com?font=Freeman&size=40&duration=3000&pause=900&color=36C2CE&center=true&vCenter=true&random=false&width=600&height=60&lines=MERN+Stack+Developer%2C;NODE+Backend+Developer%2C;React+FrontEnd+Developer%2C;Passionate+Programmer%2C;Love+to+Learn+New+Stuff%2C" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="left"> 🚀 About Me</h3>
-
 🌐 I am a passionate MERN Stack Developer and software engineering student (currently in my 3rd semester) with a deep curiosity for the latest advancements in web development and software technology. I’m actively seeking opportunities to apply my skills through an internship in Full-Stack Development to build scalable, high-performance solutions.
 
 💡 My technical journey has equipped me with a solid foundation in front-end and back-end technologies, and I’m always eager to embrace new challenges. From collaborating on innovative projects to staying updated with emerging trends, I thrive in environments where learning and creating something extraordinary are at the core.

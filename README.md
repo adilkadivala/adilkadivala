@@ -6,7 +6,7 @@
 <h3 align="center">A passionate MERN Stack developer from INDIA</h3>
 
 <p align="center">
-  <a href="https://github.com/adilkadivala"><img src="https://readme-typing-svg.demolab.com?font=Freeman&size=40&duration=3000&pause=900&color=36C2CE&center=true&vCenter=true&random=false&width=600&height=60&lines=MERN+Stack+Developer%2C;NODE+Backend+Developer%2C;React+FrontEnd+Developer%2C;Passionate+Programmer%2C;Love+to+Learn+New+Stuff%2C" alt="Typing SVG" /></a>
+  <a href="https://github.com/adilkadivala"><img src="https://readme-typing-svg.demolab.com?font=Freeman&size=40&duration=3000&pause=900&color=36C2CE&center=true&vCenter=true&random=false&width=600&height=60&lines=Let's+Debug+and%2C;contribute+%2C;Love+to+Learn+New+Stuff%2C" alt="Typing SVG" /></a>
 </p>
 
 🌐 I am a passionate MERN Stack Developer and software engineering student (currently in my 3rd semester) with a deep curiosity for the latest advancements in web development and software technology. I’m actively seeking opportunities to apply my skills through an internship in Full-Stack Development to build scalable, high-performance solutions.

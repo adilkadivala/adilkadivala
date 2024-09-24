@@ -39,8 +39,6 @@
 
 <h3 align="left"> 🎓 Play Ground</h3>
 
-💻 I have hands-on experience in crafting engaging and responsive user interfaces using HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, and Express.
-
 
 <div>
 <img src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />

@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   , I'm Adil Kadival (K-Adi)
 </h1>
-<h3 align="center">A passionate MERN Stack developer from INDIA</h3>
+<h3 align="center">A smooth sea never made skilled sailor " Franklin D. Roosevelt"</h3>
 
 <p align="center">
   <a href="https://github.com/adilkadivala"><img src="https://readme-typing-svg.demolab.com?font=Freeman&size=40&duration=3000&pause=900&color=36C2CE&center=true&vCenter=true&random=false&width=600&height=60&lines=Let's+Debug+and+contribute+%2C;Love+to+Learn+New+Stuff%2C" alt="Typing SVG" /></a>

@@ -17,6 +17,7 @@
 
 <h1 align="center">GitHub Says About Me!</h1>
 
+
 <table align="center">
   <tr>
     <td>
@@ -31,11 +32,19 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=adilkadivala&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Adilkadivala(K-ADI)" />
+    <td>
+       <a href="https://github.com/adilkadivala">
+      <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=adilkadivala&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Adilkadivala(K-ADI)" /> </a>
+    </td>
+    <td>
+       <a href="https://github.com/adilkadivala">
+      <img src="https://stats.quira.sh/adilkadivala/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=adilkadivala" alt="adilkadivala's GitHub | Stats"/>  </a>
     </td>
   </tr>
 </table>
+
+
+
 
 <h3 align="left"> 🎓 Play Ground</h3>
 

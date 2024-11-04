@@ -38,6 +38,9 @@
 </table>
 
 
+<h3 align="left"> 🎉 Hacktoberfest Contribution rewards </h3>
+
+[![An image of @adilkadivala's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adilkadivala)](https://holopin.io/@adilkadivala)
 
 
 <h3 align="left"> 🎓 Play Ground</h3>

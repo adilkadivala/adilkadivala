@@ -3,17 +3,25 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   , I'm Adil Kadival (K-Adi)
 </h1>
-<h3 align="center">A smooth sea never made skilled sailor,  "Franklin D. Roosevelt"</h3>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=adilkadivala&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
-<p align="center">
-  <a href="https://github.com/adilkadivala"><img src="https://readme-typing-svg.demolab.com?font=Freeman&size=40&duration=3000&pause=900&color=36C2CE&center=true&vCenter=true&random=false&width=600&height=60&lines=Let's+Debug+and+contribute+%2C;Love+to+Learn+New+Stuff%2C" alt="Typing SVG" /></a>
-</p>
+  <!-- Github Followers -->
+  <img src="https://img.shields.io/github/followers/adilkadivala?label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers" />
 
-🌐 I am a passionate MERN Stack Developer and software engineer student (currently in my 3rd semester) with a deep curiosity for the latest advancements in web development and software technology. I’m actively seeking opportunities to apply my skills through an internship in Full-Stack Development to build scalable, high-performance solutions.
+  <!-- Github Stars -->
+  <img src="https://img.shields.io/github/stars/adilkadivala?label=Stars&logo=github&style=for-the-badge" alt="GitHub Stars" />
+</div>
 
-💡 My technical journey has equipped me with a solid foundation in front-end and back-end technologies, and I’m always eager to embrace new challenges. From collaborating on innovative projects to staying updated with emerging trends, I thrive in environments where learning and creating something extraordinary are at the core.
+<h3 align="center" >A smooth sea never made skilled sailor,  "Franklin D. Roosevelt"</h3>
 
-🚀 If you’re looking for a developer with a strong work ethic, creative problem-solving skills, and a passion for modern web technologies, let's connect and build something remarkable together!
+
+
+🌐 I am a passionate MERN Stack Developer ,and actively excleing  my skills through building and contributing in Full-Stack Development to build scalable, high-performance solutions.
+
+💡 My technical journey has equipped me with a solid foundation in front-end and back-end technologies, eager to embrace new challenges. I thrive in environments where learning and creating something extraordinary are at the core.
+
+🚀 Activly looking for contribute in real-world
 
 <h1 align="center">GitHub Says About Me!</h1>
 

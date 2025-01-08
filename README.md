@@ -17,7 +17,7 @@
 
 
 
-🌐 I am a passionate MERN Stack Developer ,and actively excleing  my skills through building and contributing in Full-Stack Development to build scalable, high-performance solutions.
+🌐 I am a passionate MERN Stack Developer ,and actively excelling my skills through building and contributing in Full-Stack Development to build scalable, high-performance solutions.
 
 💡 My technical journey has equipped me with a solid foundation in front-end and back-end technologies, eager to embrace new challenges. I thrive in environments where learning and creating something extraordinary are at the core.
 

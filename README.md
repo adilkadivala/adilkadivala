@@ -46,7 +46,7 @@
 </table>
 
 
-<h3 align="left"> 🎉 Hacktoberfest Contribution rewards </h3>
+<h3 align="left"> 🎉 Hacktoberfest Open source Contribution rewards </h3>
 
 [![An image of @adilkadivala's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adilkadivala)](https://holopin.io/@adilkadivala)
 

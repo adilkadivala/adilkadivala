@@ -15,11 +15,9 @@
 
 <h3 align="center" >A smooth sea never made skilled sailor,  "Franklin D. Roosevelt"</h3>
 
+🌐 Full-Stack developer with the experience of Open-source contribution
 
-
-🌐 I am a passionate MERN Stack Developer ,and actively excelling my skills through building and contributing in Full-Stack Development to build scalable, high-performance solutions.
-
-💡 My technical journey has equipped me with a solid foundation in front-end and back-end technologies, eager to embrace new challenges. I thrive in environments where learning and creating something extraordinary are at the core.
+💡 Got into google-summer-of code (GSoC) 2025 at Open source UOM , GFOSS.
 
 🚀 Activly looking for contribute in real-world
 

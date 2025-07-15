@@ -33,14 +33,6 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilkadivala&hide=jupyter%20notebook,css&layout=compact&theme=dracula" width="400" height="200"/>
     </td>
   </tr>
-  <tr>
-    <td>
-      <img align="center"  height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=adilkadivala&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Adilkadivala(K-ADI)" /> 
-    </td>
-    <td>
-      <img align="center" src="https://stats.quira.sh/adilkadivala/github?theme=dark(https://quira.sh?utm_source=widgets&utm_campaign=adilkadivala" alt="adilkadivala's GitHub | Stats)" height="250" width="400"/>  
-    </td>
-  </tr>
 </table>
 
 

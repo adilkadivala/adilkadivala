@@ -21,8 +21,6 @@
 
 🚀 Activly looking for contribute in real-world
 
-<h1 align="center">GitHub Says About Me!</h1>
-
 
 <table align="center">
   <tr>

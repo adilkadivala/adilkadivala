@@ -1,7 +1,7 @@
 <h1 align="center">
-  Hello there! 
+  Hey hacker! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  , I'm Adil Kadival (K-Adi)
+  , It's Kadi
 </h1>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=adilkadivala&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
@@ -24,37 +24,128 @@
 
 <table align="center">
   <tr>
+    <th>Project</th>
+    <th>Techies</th>
+    <th>Live</th>
+    <th>Status</th>
+  </tr>
+  <tr>
     <td>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adilkadivala&show_icons=true&theme=dracula&private=true&include_all_commits=true" />
+       <a href="https://github.com/adilkadivala/GSoC-2025" target="_blank">Google Summer of code 2025 </a>
+    </td>
+    <td style="display:flex, flexwrap:wrap">
+        <img src="https://img.shields.io/badge/-typescript?&logo=typescript&logoColor=black" />
+        <img src="https://img.shields.io/badge/-express?&logo=express&logoColor=black" />
+        <img src="https://img.shields.io/badge/-react?&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/-postgresql?&logo=postgresql&logoColor=black" />
+        <img src="https://img.shields.io/badge/-Postman?&logo=postman&logoColor=f7f7f7" />
+        <img src="https://img.shields.io/badge/-github?&logo=github&logoColor=white" />
     </td>
     <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilkadivala&hide=jupyter%20notebook,css&layout=compact&theme=dracula" width="400" height="200"/>
+       <a href="https://github.com/open-source-uom" target="_blank">MyUom</a>
+    </td>
+    <td>
+       <p>continus improvement</p>
     </td>
   </tr>
+  <tr>
+    <td>
+       <a href="https://github.com/adilkadivala/taskflow" target="_blank">taskflow</a>
+    </td>
+    <td style="display:flex, flexwrap:wrap">
+        <img src="https://img.shields.io/badge/-typescript?&logo=typescript&logoColor=black" />
+        <img src="https://img.shields.io/badge/-express?&logo=express&logoColor=black" />
+        <img src="https://img.shields.io/badge/-react?&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/-mongodb?&logo=mongodb&logoColor=black" />
+        <img src="https://img.shields.io/badge/-Postman?&logo=postman&logoColor=f7f7f7" />
+        <img src="https://img.shields.io/badge/-github?&logo=github&logoColor=white" />
+    </td>
+    <td>
+       <a href="https://taskflow-kadi.vercel.app" target="_blank">taskflow</a>
+    </td>
+    <td>
+       <p>completed</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+       <a href="https://github.com/adilkadivala/open-fix" target="_blank">openfix</a>
+    </td>
+    <td style="display:flex, flexwrap:wrap">
+        <img src="https://img.shields.io/badge/-typescript?&logo=typescript&logoColor=black" />
+        <img src="https://img.shields.io/badge/-express?&logo=express&logoColor=black" />
+        <img src="https://img.shields.io/badge/-mongodb?&logo=mongodb&logoColor=black" />
+        <img src="https://img.shields.io/badge/-Next?&logo=next.js&logoColor=black" />
+        <img src="https://img.shields.io/badge/-Postman?&logo=postman&logoColor=f7f7f7" />
+        <img src="https://img.shields.io/badge/-github?&logo=github&logoColor=white" />
+    </td>
+    <td>
+       <a href="https://openfix-issues.vercel.app" target="_blank">openfix</a>
+    </td>
+     <td>
+       <p>under development</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+       <a href="https://github.com/adilkadivala/team-up" target="_blank">teamup</a>
+    </td>
+    <td style="display:flex, flexwrap:wrap">
+        <img src="https://img.shields.io/badge/-typescript?&logo=typescript&logoColor=black" />
+        <img src="https://img.shields.io/badge/-express?&logo=express&logoColor=black" />
+        <img src="https://img.shields.io/badge/-mongodb?&logo=mongodb&logoColor=black" />
+        <img src="https://img.shields.io/badge/-Next?&logo=next.js&logoColor=black" />
+        <img src="https://img.shields.io/badge/-Postman?&logo=postman&logoColor=f7f7f7" />
+        <img src="https://img.shields.io/badge/-github?&logo=github&logoColor=white" />
+    </td>
+    <td>
+       <a href="https://teamup-hack.vercel.app" target="_blank">teamup</a>
+    </td>
+     <td>
+       <p>under development</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+       <a href="https://github.com/adilkadivala/finance" target="_blank">Finance</a>
+    </td>
+    <td style="display:flex, flexwrap:wrap">
+        <img src="https://img.shields.io/badge/-typescript?&logo=typescript&logoColor=black" />
+        <img src="https://img.shields.io/badge/-express?&logo=express&logoColor=black" />
+        <img src="https://img.shields.io/badge/-postgresql?&logo=postgresql&logoColor=black" />
+        <img src="https://img.shields.io/badge/-Next?&logo=next.js&logoColor=black" />
+        <img src="https://img.shields.io/badge/-Postman?&logo=postman&logoColor=f7f7f7" />
+        <img src="https://img.shields.io/badge/-github?&logo=github&logoColor=white" />
+    </td>
+    <td>
+       <a href="https://follow-finance.vercel.app" target="_blank">Finance</a>
+    </td>
+    <td>
+       <p>completed</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+       <a href="https://github.com/adilkadivala/ai_project" target="_blank">Content generator</a>
+    </td>
+    <td style="display:flex, flexwrap:wrap">
+        <img src="https://img.shields.io/badge/-typescript?&logo=typescript&logoColor=black" />
+        <img src="https://img.shields.io/badge/-express?&logo=express&logoColor=black" />
+        <img src="https://img.shields.io/badge/-react?&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/-postgresql?&logo=postgresql&logoColor=black" />
+        <img src="https://img.shields.io/badge/-Postman?&logo=postman&logoColor=f7f7f7" />
+        <img src="https://img.shields.io/badge/-github?&logo=github&logoColor=white" />
+    </td>
+    <td>
+       <a href="https://github.com/adilkadivala/taskflow" target="_blank">Content generator</a>
+    </td>
+    <td>
+       <p>completed</p>
+    </td>
+  </tr>
+  
 </table>
-
-
-<h3 align="left"> 🎉 Hacktoberfest Open source Contribution rewards </h3>
-
-[![An image of @adilkadivala's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adilkadivala)](https://holopin.io/@adilkadivala)
-
-
-<h3 align="left"> 🎓 Play Ground</h3>
-
-
-<div>
-<img src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/-Node.js-87BF00?&style=for-the-badge&logo=node.js&logoColor=black" />
-<img src="https://img.shields.io/badge/-Express.js-F7F7F7?&style=for-the-badge&logo=express&logoColor=black" />
-<img src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/-MySQL-42759C?&style=for-the-badge&logo=mysql&logoColor=f7f7f7" />
-<img src="https://img.shields.io/badge/-Next.js-000000?&style=for-the-badge&logo=next.js&logoColor=f7f7f7" />
-<img src="https://img.shields.io/badge/-Postman-F56933?&style=for-the-badge&logo=postman&logoColor=f7f7f7" />
-<img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" /> 
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-</div>
-
-
 
 
 <h3 align="center">Connect with me:</h3>

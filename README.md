@@ -15,138 +15,44 @@
 
 <h3 align="center" >A smooth sea never made skilled sailor,  "Franklin D. Roosevelt"</h3>
 
-🌐 Full-Stack developer with the experience of Open-source contribution
+---
 
-💡 Got into google-summer-of code (GSoC) 2025 at Open source UOM , GFOSS.
+Full-stack engineer building AI-native apps and agents.
+GSoC '25 · Currently at Talksign · Open to new roles.
 
-🚀 building agents and learning ai to add productivity and fastup my work
 
 
-<table align="center">
-  <tr>
-    <th>Project</th>
-    <th>Techies</th>
-    <th>Live</th>
-    <th>Status</th>
-  </tr>
-  <tr>
-    <td>
-       <a href="https://github.com/adilkadivala/GSoC-2025" target="_blank">Google Summer of code 2025 </a>
-    </td>
-    <td style="display:flex, flexwrap:wrap">
-        <img src="https://img.shields.io/badge/-typescript?&logo=typescript&logoColor=black" />
-        <img src="https://img.shields.io/badge/-express?&logo=express&logoColor=black" />
-        <img src="https://img.shields.io/badge/-react?&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/-postgresql?&logo=postgresql&logoColor=black" />
-        <img src="https://img.shields.io/badge/-Postman?&logo=postman&logoColor=f7f7f7" />
-        <img src="https://img.shields.io/badge/-github?&logo=github&logoColor=white" />
-    </td>
-    <td>
-       <a href="https://github.com/open-source-uom" target="_blank">MyUom</a>
-    </td>
-    <td>
-       <p>continus improvement</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-       <a href="https://github.com/adilkadivala/taskflow" target="_blank">taskflow</a>
-    </td>
-    <td style="display:flex, flexwrap:wrap">
-        <img src="https://img.shields.io/badge/-typescript?&logo=typescript&logoColor=black" />
-        <img src="https://img.shields.io/badge/-express?&logo=express&logoColor=black" />
-        <img src="https://img.shields.io/badge/-react?&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/-mongodb?&logo=mongodb&logoColor=black" />
-        <img src="https://img.shields.io/badge/-Postman?&logo=postman&logoColor=f7f7f7" />
-        <img src="https://img.shields.io/badge/-github?&logo=github&logoColor=white" />
-    </td>
-    <td>
-       <a href="https://taskflow-kadi.vercel.app" target="_blank">taskflow</a>
-    </td>
-    <td>
-       <p>completed</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-       <a href="https://github.com/adilkadivala/open-fix" target="_blank">openfix</a>
-    </td>
-    <td style="display:flex, flexwrap:wrap">
-        <img src="https://img.shields.io/badge/-typescript?&logo=typescript&logoColor=black" />
-        <img src="https://img.shields.io/badge/-express?&logo=express&logoColor=black" />
-        <img src="https://img.shields.io/badge/-mongodb?&logo=mongodb&logoColor=black" />
-        <img src="https://img.shields.io/badge/-Next?&logo=next.js&logoColor=black" />
-        <img src="https://img.shields.io/badge/-Postman?&logo=postman&logoColor=f7f7f7" />
-        <img src="https://img.shields.io/badge/-github?&logo=github&logoColor=white" />
-    </td>
-    <td>
-       <a href="https://openfix-issues.vercel.app" target="_blank">openfix</a>
-    </td>
-     <td>
-       <p>under development</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-       <a href="https://github.com/adilkadivala/team-up" target="_blank">teamup</a>
-    </td>
-    <td style="display:flex, flexwrap:wrap">
-        <img src="https://img.shields.io/badge/-typescript?&logo=typescript&logoColor=black" />
-        <img src="https://img.shields.io/badge/-express?&logo=express&logoColor=black" />
-        <img src="https://img.shields.io/badge/-mongodb?&logo=mongodb&logoColor=black" />
-        <img src="https://img.shields.io/badge/-Next?&logo=next.js&logoColor=black" />
-        <img src="https://img.shields.io/badge/-Postman?&logo=postman&logoColor=f7f7f7" />
-        <img src="https://img.shields.io/badge/-github?&logo=github&logoColor=white" />
-    </td>
-    <td>
-       <a href="https://teamup-hack.vercel.app" target="_blank">teamup</a>
-    </td>
-     <td>
-       <p>under development</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-       <a href="https://github.com/adilkadivala/finance" target="_blank">Finance</a>
-    </td>
-    <td style="display:flex, flexwrap:wrap">
-        <img src="https://img.shields.io/badge/-typescript?&logo=typescript&logoColor=black" />
-        <img src="https://img.shields.io/badge/-express?&logo=express&logoColor=black" />
-        <img src="https://img.shields.io/badge/-postgresql?&logo=postgresql&logoColor=black" />
-        <img src="https://img.shields.io/badge/-Next?&logo=next.js&logoColor=black" />
-        <img src="https://img.shields.io/badge/-Postman?&logo=postman&logoColor=f7f7f7" />
-        <img src="https://img.shields.io/badge/-github?&logo=github&logoColor=white" />
-    </td>
-    <td>
-       <a href="https://follow-finance.vercel.app" target="_blank">Finance</a>
-    </td>
-    <td>
-       <p>completed</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-       <a href="https://github.com/adilkadivala/ai_project" target="_blank">Content generator</a>
-    </td>
-    <td style="display:flex, flexwrap:wrap">
-        <img src="https://img.shields.io/badge/-typescript?&logo=typescript&logoColor=black" />
-        <img src="https://img.shields.io/badge/-express?&logo=express&logoColor=black" />
-        <img src="https://img.shields.io/badge/-react?&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/-postgresql?&logo=postgresql&logoColor=black" />
-        <img src="https://img.shields.io/badge/-Postman?&logo=postman&logoColor=f7f7f7" />
-        <img src="https://img.shields.io/badge/-github?&logo=github&logoColor=white" />
-    </td>
-    <td>
-       <a href="https://github.com/adilkadivala/taskflow" target="_blank">Content generator</a>
-    </td>
-    <td>
-       <p>completed</p>
-    </td>
-  </tr>
-  
-</table>
+## what I'm building
 
+- AI agents with real tool use (RAG, function calling, MCP)
+- Full-stack apps that don't just wrap ChatGPT — they reason
+- Proactive AI that acts on user behavior, not just prompts
+
+
+## stack
+
+**AI / agents** — RAG · agentic AI · MCP · LangChain · Groq · OpenAI API  
+**frontend** — React · Next.js · Tailwind · ShadCN  
+**backend** — Node.js · Express · FastAPI · Python  
+**databases** — PostgreSQL · MongoDB · Prisma · Drizzle · Neon  
+**devops** — Docker · CI/CD · GitHub Actions · AWS (EC2, Lambda, S3) · Vercel  
+
+
+
+## experience
+
+**Talksign** — Full-stack engineer · Jan 2026 - May 2026 · Full time · remote  
+**Google Summer of Code '25** — Built MyUni for Open Technologies Alliance  
+↳ 30% API perf improvement · 85% faster deployments · 30+ merged PRs
+
+
+
+## open to
+
+SWE · AI full-stack · SDE · full-stack roles  
+Remote preferred · Available now
+
+---
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">

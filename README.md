@@ -18,7 +18,7 @@
 ---
 
 Full-stack engineer building AI-native apps and agents.
-GSoC '25 · Currently at Talksign · Open to new roles.
+GSoC '25 · Currently at Workllm · previously at Talksign · Open to new roles.
 
 
 

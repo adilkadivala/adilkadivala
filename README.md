@@ -19,7 +19,7 @@
 
 💡 Got into google-summer-of code (GSoC) 2025 at Open source UOM , GFOSS.
 
-🚀 Activly looking for contribute in real-world
+🚀 building agents and learning ai to add productivity and fastup my work
 
 
 <table align="center">

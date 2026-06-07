@@ -41,9 +41,10 @@ GSoC '25 · Currently at Talksign · Open to new roles.
 
 ## experience
 
-**Talksign** — Full-stack engineer · Jan 2026 - May 2026 · Full time · remote  
-**Google Summer of Code '25** — Built MyUni for Open Technologies Alliance  
-↳ 30% API perf improvement · 85% faster deployments · 30+ merged PRs
+- **[workllm](https://workllm.io)** — Software engineer · May 2026 - Current · Full time · remote  
+- **[Talksign](https://www.talksign.co)** — Founding Software engineer · Jan 2026 - May 2026 · Full time · remote  
+- **[Google Summer of Code '25](https://www.linkedin.com/posts/adilkadivala_googlesummerofcode2025-gsoc-opensource-activity-7371014846936600576-UvM3?utm_source=share&utm_medium=member_desktop&rcm=ACoAADxA-JsBWBpan9At6QeSz9n3xaEPnUcXC9E)** — Built MyUni for Open Technologies Alliance  
+   ↳ 30% API perf improvement · 85% faster deployments · 30+ merged PRs
 
 
 
@@ -57,8 +58,7 @@ Remote preferred · Available now
 <h3 align="center">Connect with me:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/adilkadivala" target=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.hackerrank.com/profile/adilkadivala560" target=""><img src="https://img.shields.io/badge/Hackerrank-E4405F?style=for-the-badge&logo=Hackerrank&logoColor=white" alt="Hackerrank"></a>
+  <a href="mailto:adilkadivala560@gmail.com?subject=Hey Adil&body=Hi Adil" target=""><img src="https://img.shields.io/badge/mail-E4405F?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://twitter.com/adil_kadival" target=""><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://leetcode.com/adilkadivala/" target=""><img src="https://img.shields.io/badge/Leetcode-D14836?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode"></a>
 </div>
 

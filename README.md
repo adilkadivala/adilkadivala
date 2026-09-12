@@ -38,6 +38,14 @@ GSoC '25 · Currently at Workllm · previously at Talksign · Open to new roles.
 **devops** — Docker · CI/CD · GitHub Actions · AWS (EC2, Lambda, S3) · Vercel  
 
 
+## Projects
+
+**[Kitty](https://github.com/adilkadivala/kitty)** : Kitty is an agent build from scratch with langchain, will stay with you in your slack and can chat, it'll help to your notion, can create a page, edit and retrieve data foryou in slack 
+
+**[Buddy](https://github.com/adilkadivala/buddy)** : Buddy is an agent build from scratch without any framework, will stay with you in your slack and can chat and talk, it'll help to you getting mail, drafting and sending, as well can book a call and see your scheduled call as well  
+
+
+
 
 ## experience
 

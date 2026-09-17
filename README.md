@@ -42,6 +42,8 @@ GSoC '25 · Currently at Workllm · previously at Talksign · Open to new roles.
 
 **[Kitty](https://github.com/adilkadivala/kitty)** : Kitty is an agent build from scratch with langchain, will stay with you in your slack and can chat and talk, it'll help to your notion, can create a page, edit and retrieve data foryou in slack, getting mail, drafting and sending, as well can book a call and see your scheduled call as well  
 
+**[Crew](https://github.com/adilkadivala/crew)** : Crew is an cli based multi-agent project, created using langchain, user will chat with the main agent and then main agent will create sub-agent based on the given prompt, 
+
 ## experience
 
 - **[workllm](https://workllm.io)** — Software engineer · May 2026 - Current · Full time · remote  
